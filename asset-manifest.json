@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moazzam1234/textutils1/static/css/main.9ff2bf15.css",
+    "main.js": "/Moazzam1234/textutils1/static/js/main.0f613959.js",
+    "static/js/453.b701deff.chunk.js": "/Moazzam1234/textutils1/static/js/453.b701deff.chunk.js",
+    "index.html": "/Moazzam1234/textutils1/index.html",
+    "main.9ff2bf15.css.map": "/Moazzam1234/textutils1/static/css/main.9ff2bf15.css.map",
+    "main.0f613959.js.map": "/Moazzam1234/textutils1/static/js/main.0f613959.js.map",
+    "453.b701deff.chunk.js.map": "/Moazzam1234/textutils1/static/js/453.b701deff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff2bf15.css",
+    "static/js/main.0f613959.js"
+  ]
+}
